@@ -10230,3 +10230,4 @@ insert into wordle.dictionary_word values (10228, 'zompo');
 insert into wordle.dictionary_word values (10229, 'zopas');
 insert into wordle.dictionary_word values (10230, 'zubia');
 insert into wordle.dictionary_word values (10231, 'zuela');
+insert into wordle.dictionary_word values (10232, 'gasol');
