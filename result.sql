@@ -1,3 +1,4 @@
+ALTER TABLE wordle.dictionary_word CHANGE COLUMN `word` `word` VARCHAR(255) CHARACTER SET 'utf8' COLLATE 'utf8_spanish_ci' NULL DEFAULT NULL ;
 insert into wordle.dictionary_word values (0, 'aabam');
 insert into wordle.dictionary_word values (1, 'aaban');
 insert into wordle.dictionary_word values (2, 'aaiba');
